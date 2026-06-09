@@ -530,7 +530,7 @@ Código:
         )
 
 
-**USING DELTA**
+* **USING DELTA**
 
 Código:
 
@@ -609,7 +609,7 @@ Código:
 
 ![image](https://github.com/user-attachments/assets/cccf79b3-9e7e-4b9c-ad6f-668e5212e396)
 
-**FOR EACH BATCH**
+* **FOR EACH BATCH**
 
 Creamos otra notebook llamada For Each Batch y creamos las siguientes celdas con sus respectivos códigos
 
@@ -678,7 +678,7 @@ Código:
 
 ### WINDOW FUNCTIONS
 
-**Sliding Windows (Ventanas Deslizantes)**
+* **Sliding Windows (Ventanas Deslizantes)**
 
 Creamos un nuevo notebook y pasamos los siguientes códigos en las celdas.
 
@@ -744,7 +744,7 @@ Ahora ejecutamos todas las celdas anteriores y vamos a ver los resultados en la 
 ![image](https://github.com/user-attachments/assets/fbbf134f-90a4-4aa6-86f9-921558d266e7)
 
 
-**Session Windows (Ventanas de Sesión)**
+* **Session Windows (Ventanas de Sesión)**
 
 En esta sesión trabajaremos con la misma estructura de código anterior para ver los cambios.
 
