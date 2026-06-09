@@ -287,15 +287,17 @@ Código:
 
 Código del archivo day1.json parte payment.
 
-"payment": {
-    "method": "Credit Card",
-    "transaction_id": "TXN7890"
-  },
-  "metadata": [
-    {"key": "campaign", "value": "back_to_school"},
-    {"key": "channel", "value": "email"}
-  ]
-}
+Código:
+
+        "payment": {
+            "method": "Credit Card",
+            "transaction_id": "TXN7890"
+          },
+          "metadata": [
+            {"key": "campaign", "value": "back_to_school"},
+            {"key": "channel", "value": "email"}
+          ]
+        }
 
 
 Primero en el código anterior aumentamos al final del código “payment”, “metadata”.
